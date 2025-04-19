@@ -1,6 +1,6 @@
 # Todo App with Docker
 
-A simple Todo application with React frontend, Express backend, and PostgreSQL database, all containerized with Docker.
+A simple Todo application with React frontend, Express backend, and PostgreSQL database, all containerized with Docker-Desktop (Need to install on window machine).
 
 ![Todo App Screenshot](./screenshot.png)
 
